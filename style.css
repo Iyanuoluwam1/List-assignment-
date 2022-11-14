@@ -1,0 +1,21 @@
+
+body {
+  background-color: seashell;
+}
+#mylikes {
+  padding:3px;
+  margin:15px;
+}
+ .likes {
+   color: seagreen;
+   font-size: 18px;
+   
+ }
+#dislikes {
+  padding:3px;
+  margin:15px;
+}
+.dislike {
+  color: chocolate;
+  font-size: 18px;
+}
